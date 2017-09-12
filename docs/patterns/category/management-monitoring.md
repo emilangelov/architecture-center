@@ -15,7 +15,7 @@ Cloud applications run in in a remote datacenter where you do not have full cont
 | Pattern | Summary |
 | ------- | ------- |
 | [Ambassador](../ambassador.md) | Create helper services that send network requests on behalf of a consumer service or application. |
-| [Anti-Corruption Layer](../anti-corruption-layer.md) | Implement a façade or adapter layer between a modern application and a legacy system. |
+| [Anti-Corruption Layer](../anti-corruption-layer.md) | Implement a facade or adapter layer between a modern application and a legacy system. |
 | [External Configuration Store](../external-configuration-store.md) | Move configuration information out of the application deployment package to a centralized location. |
 | [Gateway Aggregation](../gateway-aggregation.md) | Use a gateway to aggregate multiple individual requests into a single request. |
 | [Gateway Offloading](../gateway-offloading.md) | Offload shared or specialized service functionality to a gateway proxy. |
